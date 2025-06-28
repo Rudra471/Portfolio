@@ -16,7 +16,7 @@ This website is designed to showcase my skills, projects, achievements, and prov
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React / Vanilla JS (specify if you're using any)  
+- **Frameworks & Libraries:** React JS
 - **Deployment:** GitHub Pages
 
 
